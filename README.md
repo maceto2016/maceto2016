@@ -19,7 +19,7 @@ My name is **Marcelo Aceto** and I'm a **Entreprenuer and Software Engineer/IT C
 
 I live in Brazil and I'm leading some innovative startup projects.
 
-You can find me on [![LinkedIn](./assets/linkedin-20.png)][1] or [![Instagram](./assets/instagram-20.png)][2].
+You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](./assets/instagram-16.png)][2].
 
 <!-- Links to my personal social media accounts -->
 

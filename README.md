@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Marcelo Aceto** and I'm a **Entreprenuer and Software Engineer/IT Consultant** with 35 years of experience. I've been working on a variety of IT projects and tecnologies over the years.
+My name is **Marcelo Aceto** and I'm a **Entreprenuer and Software Engineer/IT Consultant** with over 35 years of experience. I've been working on a variety of IT projects and tecnologies over the years.
 
 I live in Brazil and I'm leading some innovative startup projects.
 

@@ -23,7 +23,7 @@ Always looking for bigger challenges!
 
 You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](./assets/instagram-16.png)][2].
 
-## Technologies
+## Some Technologies
 
 ### OS
 

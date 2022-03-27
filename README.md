@@ -1,4 +1,4 @@
-### Hi there - hello there 👋
+# Hi there 👋
 
 <!--
 **maceto2016/maceto2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Marcelo Aceto** and I'm a **Entreprenuer and Software Engineer/IT Consultant** with 35 years of experience. I've been working on a variety of IT projects and tecnologies over the years.
+
+I live in Brazil and I'm leading some innovative startup projects.
+
+You can find me on [![LinkedIn](./assets/linkedin-24.png)][1]
+
+<!-- Links to my personal social media accounts -->
+
+[1]: https://www.linkedin.com/macetofit
+[2]: https://www.instagram.com/macetofit

@@ -67,6 +67,7 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](.
 ![](https://img.shields.io/badge/ORM-Sequelize-informational?style=flat&logo=sequelize&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ORM-Mongoose/Typegooose-informational?style=flat&logo=sequelize&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ORM-TypeORM-informational?style=flat&logo=sequelize&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=2bbc8a)
 
 ### IoT related
 

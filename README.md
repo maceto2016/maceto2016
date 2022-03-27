@@ -59,7 +59,7 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](.
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ASM_80x86-informational?style=flat&logo=assemblyscript&logoColor=white&color=2bbc8a)
 
-### Javascript/Typescript Technologies
+### Javascript/Typescript related
 
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
@@ -68,6 +68,8 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](.
 ![](https://img.shields.io/badge/ORM-Mongoose/Typegooose-informational?style=flat&logo=sequelize&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ORM-TypeORM-informational?style=flat&logo=sequelize&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Microservices-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 
 ### IoT related
 

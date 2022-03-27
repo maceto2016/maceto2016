@@ -78,6 +78,14 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](.
 ![](https://img.shields.io/badge/IoT-LoRa-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IoT-MQTT-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
+### Project Mamagement related
+
+![](https://img.shields.io/badge/Tools-UML-informational?style=flat&logo=&logo=protondb&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-DFD-informational?style=flat&logo=&logo=protondb&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kanban-informational?style=flat&logo=&logo=protondb&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SCRUM-informational?style=flat&logo=&logo=protondb&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-BPMN-informational?style=flat&logo=&logo=protondb&Color=white&color=2bbc8a)
+
 <!-- Links to my personal social media accounts -->
 
 [1]: https://www.linkedin.com/in/macetofit

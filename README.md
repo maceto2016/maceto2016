@@ -21,7 +21,7 @@ I live in Brazil and I'm leading some innovative startup projects.
 
 Always looking for bigger challenges!
 
-You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](./assets/instagram-16.png)][2].
+You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./assets/instagram-16.png)][2], [![Facebook](./assets/facebook-16.png)][3] or [![Mail](./assets/mail-16.png)][4].
 
 ## Some Technologies
 
@@ -97,3 +97,5 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1] or [![Instagram](.
 
 [1]: https://www.linkedin.com/in/macetofit
 [2]: https://www.instagram.com/macetofit
+[3]: https://www.facebook.com/maceto.fit
+[4]: maito:maceto06@gmail.com

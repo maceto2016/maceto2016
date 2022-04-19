@@ -98,4 +98,4 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 [1]: https://www.linkedin.com/in/macetofit
 [2]: https://www.instagram.com/macetofit
 [3]: https://www.facebook.com/maceto.fit
-[4]: maito:maceto06@gmail.com
+[4]: mailto:maceto06@gmail.com

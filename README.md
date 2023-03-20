@@ -23,7 +23,27 @@ Always looking for bigger challenges!
 
 You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./assets/instagram-16.png)][2], [![Facebook](./assets/facebook-16.png)][3] or [![Mail](./assets/mail-16.png)][4].
 
-## Some Technologies
+## Timeline
+
+### **DOS** Development Phase
+
+<!-- HTML Code -->
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>1988 - 1996</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Highlights</th>
+<td><ul><li>I've developed a fullstack framework in C++ for developing DOS applications</li></ul></td>
+</tr>
+</tbody>
+</table>
+
+## Some Technologies I've worked
 
 ### OS
 

@@ -43,6 +43,32 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 </tbody>
 </table>
 
+### **WINDOWS** Development Phase
+
+<!-- HTML Code -->
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>1997 - 2016</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Highlights</th>
+<td><ul>
+<li>I've worked as <b>principal software engineer</b> in architecture and creation of software tools for the development team and also in the business area, including:
+<ul>
+<li>Analysis and development of a BNF-based compiler/translator that compiles C language and generates Object Pascal. This solution was used to rewrite systems made in C for Dephi at <b>Senior Sistemas</b></li>
+<li>Analysis and development of a BNF-based compiler/translator for PL trigger/stored procedures and SQL languages ​​for Oracle, Sybase Server, Sybase Anywhere, MS-SQL Server and Informix database managers. All triggers and Stored Procedures were written in PL Oracle, and the tool generated the code for the other DBMSs.</li>
+<li>Analysis, coordination and development of a Platform for System Development (I-CASE) that includes technologies and resources such as: Multi-database support with unified SQL/PL support, proprietary development language, multi-tier client/server technology, distributed objects, WEB and Application servers, Data Driven UI generation, etc.</li>
+</ul>
+</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
 ## Some Technologies I've worked
 
 ### OS

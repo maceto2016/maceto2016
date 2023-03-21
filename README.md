@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Marcelo Aceto** and I'm a **Entreprenuer and Software Engineer/IT Consultant** with over 35 years of experience. I've been working on a variety of IT projects and tecnologies over the years.
+My name is **Marcelo Aceto** and I'm a **Entreprenuer and Principal Software Engineer** with over 35 years of experience. I've been working on a variety of IT projects and tecnologies over the years.
 
 I live in Brazil and I'm leading some innovative startup projects.
 
@@ -57,12 +57,37 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 <tr>
 <th>Highlights</th>
 <td><ul>
-<li>I've worked as <b>principal software engineer</b> in architecture and creation of software tools for the development team and also in the business area, including:
+<li>I've worked as <b>principal software engineer</b> in architecture and creation of software tools for the development teams and also in the business area, including:
 <ul>
+
 <li>Analysis and development of a BNF-based compiler/translator that compiles C language and generates Object Pascal. This solution was used to rewrite systems made in C for Dephi at <b>Senior Sistemas</b></li>
 <li>Analysis and development of a BNF-based compiler/translator for PL trigger/stored procedures and SQL languages ​​for Oracle, Sybase Server, Sybase Anywhere, MS-SQL Server and Informix database managers. All triggers and Stored Procedures were written in PL Oracle, and the tool generated the code for the other DBMSs.</li>
 <li>Analysis, coordination and development of a Platform for System Development (I-CASE) that includes technologies and resources such as: Multi-database support with unified SQL/PL support, proprietary development language, multi-tier client/server technology, distributed objects, WEB and Application servers, Data Driven UI generation, etc.</li>
 </ul>
+</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### **WEB APP/IOT and recent Technologies** Development Phase
+
+<!-- HTML Code -->
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>2017 - TODAY</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Highlights</th>
+<td><ul>
+<li>I've created a PWA SALES FORCE APP with support for integration with any ERP on the market. The frontend part was developed using JQUERY Mobile framework.
+</li>
+<li>I've working with IoT solutions, including IoT device/shield programming  (ESP8266 family), developing MQTT/APP servers, APP clients, integration with voice assistents, etc.</li>
+<li>Currently I've been working with  APP development outsourcing using GoLang / NestJS / VueJS / React / Kafka among other technologies.
 </li>
 </ul></td>
 </tr>

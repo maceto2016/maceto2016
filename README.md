@@ -70,7 +70,7 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 </tbody>
 </table>
 
-### **WEB APP/IoT and recent Technologies** Development Phase
+### **WEB APP/IoT/AI and recent Technologies** Development Phase
 
 <!-- HTML Code -->
 <table>
@@ -86,7 +86,7 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 <td><ul>
 <li>I've created a PWA SALES FORCE APP with support for integration with any ERP on the market. The frontend part was developed using JQUERY Mobile framework.
 </li>
-<li>I've working with IoT solutions, including IoT device/shield programming  (ESP8266 family), developing MQTT/APP servers, APP clients, integration with voice assistents, etc.</li>
+<li>I've working with IoT solutions, including IoT device/shield programming  (ESP8266 family), developing MQTT/APP servers, APP clients, integration with voice assistents, AI Computer Vision on ONVIF devices, etc.</li>
 <li>Currently I've been working with  APP development outsourcing using GoLang / NestJS / VueJS / React / Kafka among other technologies.
 </li>
 </ul></td>

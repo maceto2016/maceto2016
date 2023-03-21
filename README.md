@@ -70,7 +70,7 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 </tbody>
 </table>
 
-### **WEB APP/IOT and recent Technologies** Development Phase
+### **WEB APP/IoT and recent Technologies** Development Phase
 
 <!-- HTML Code -->
 <table>

@@ -63,6 +63,8 @@ You can find me on [![LinkedIn](./assets/linkedin-16.png)][1], [![Instagram](./a
 <li>Analysis and development of a BNF-based compiler/translator that compiles C language and generates Object Pascal. This solution was used to rewrite systems made in C for Dephi at <b>Senior Sistemas</b></li>
 <li>Analysis and development of a BNF-based compiler/translator for PL trigger/stored procedures and SQL languages ​​for Oracle, Sybase Server, Sybase Anywhere, MS-SQL Server and Informix database managers. All triggers and Stored Procedures were written in PL Oracle, and the tool generated the code for the other DBMSs.</li>
 <li>Analysis, coordination and development of a Platform for System Development (I-CASE) that includes technologies and resources such as: Multi-database support with unified SQL/PL support, proprietary development language, multi-tier client/server technology, distributed objects, WEB and Application servers, Data Driven UI generation, etc.</li>
+<li>I've created an information security solution for monitoring and complete control of all activities carried out on the computer (emails, chats, browser use, computer screen snapshots, file copies to the external environment, etc.)
+</li>
 </ul>
 </li>
 </ul></td>
